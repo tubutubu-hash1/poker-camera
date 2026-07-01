@@ -1,0 +1,13 @@
+{
+  "name": "poker-camera-pair",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Pair an input camera page and an output iPad page with a short room code.",
+  "main": "poker-pair-server.js",
+  "scripts": {
+    "start": "node poker-pair-server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
